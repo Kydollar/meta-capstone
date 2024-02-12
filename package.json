@@ -24,7 +24,9 @@
     "test": "react-scripts test",
     "test:cv": "react-scripts test --coverage --verbose",
     "eject": "react-scripts eject",
-    "clean": "rm -rf coverage"
+    "clean": "rm -rf coverage",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
