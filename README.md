@@ -28,7 +28,7 @@ This Booking App was created as the final capstone project of the **Meta Front-E
 
 ```s
 # Run in the Terminal
-git clone -b main url
+git clone -b main 'https://github.com/Kydollar/meta-capstone.git'
 
 # Install Dependencies
 npm install
