@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/meta-capstone/static/css/main.9ab81754.css",
+    "main.js": "/meta-capstone/static/js/main.89932ada.js",
+    "static/js/592.4b09ec12.chunk.js": "/meta-capstone/static/js/592.4b09ec12.chunk.js",
+    "static/media/icon-snapchat.svg": "/meta-capstone/static/media/icon-snapchat.103c239201d82cb77954414a34fb350e.svg",
+    "index.html": "/meta-capstone/index.html",
+    "static/media/icon-instagram.svg": "/meta-capstone/static/media/icon-instagram.c2056460bbbf6c051f72df6d7c2fa6dc.svg",
+    "static/media/icon-yelp.svg": "/meta-capstone/static/media/icon-yelp.fcec9306eb760e748dc4fe8904b5f8a1.svg",
+    "static/media/icon-pinterest.svg": "/meta-capstone/static/media/icon-pinterest.8ebc0338430682823a92a53e5e87e868.svg",
+    "static/media/icon-facebook.svg": "/meta-capstone/static/media/icon-facebook.9b444da5aa9a56243f8c6dde17a22a43.svg",
+    "main.9ab81754.css.map": "/meta-capstone/static/css/main.9ab81754.css.map",
+    "main.89932ada.js.map": "/meta-capstone/static/js/main.89932ada.js.map",
+    "592.4b09ec12.chunk.js.map": "/meta-capstone/static/js/592.4b09ec12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab81754.css",
+    "static/js/main.89932ada.js"
+  ]
+}
