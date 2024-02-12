@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "rating": 5,
+    "name": "Emily Rodriguez",
+    "review": "I absolutely loved the Mediterranean salad at Little Lemon! It's fresh, vibrant, and bursting with flavor. The combination of crispy lettuce, juicy tomatoes, tangy olives, and creamy feta cheese is simply delightful.",
+    "image": "https://ik.imagekit.io/kzvmm8t2u/Untitled4.png?updatedAt=1707732123375"
+  },
+  {
+    "id": 2,
+    "rating": 5,
+    "name": "Michael Thompson",
+    "review": "The lamb gyro at Little Lemon is hands down the best I've ever had! The meat is tender, flavorful, and perfectly seasoned. It's served with warm pita bread and a generous helping of tzatziki sauce. Absolutely delicious!",
+    "image": "https://ik.imagekit.io/kzvmm8t2u/Untitled.png?updatedAt=1707732080715"
+  },
+  {
+    "id": 3,
+    "rating": 5,
+    "name": "Abigail Sharp",
+    "review": "I'm blown away by the variety and quality of vegetarian options at Little Lemon! The falafel wrap I had was packed with fresh veggies and flavorful falafel balls. The portion size was generous, and it was served with a side of crispy fries.",
+    "image": "https://ik.imagekit.io/kzvmm8t2u/Untitled3.png?updatedAt=1707732080883"
+  },
+  {
+    "id": 4,
+    "rating": 5,
+    "name": "Sophia Anderson",
+    "review": "I'm a regular at Little Lemon, and I can't get enough of their fresh juices! The watermelon mint cooler is my favorite—it's so refreshing and packed with flavor. Perfect for quenching your thirst on a hot day!",
+    "image": "https://ik.imagekit.io/kzvmm8t2u/Untitled2.png?updatedAt=1707732080875"
+  }
+]
